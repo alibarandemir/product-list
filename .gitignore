@@ -1,0 +1,27 @@
+# Node.js (backend)
+backend/node_modules/
+backend/.env
+
+# React (frontend)
+client/node_modules/
+client/.env
+client/build/
+
+# OS / IDE / Editor
+.DS_Store
+.env
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.vscode/
+.idea/
+*.swp
+
+# Logs
+logs
+*.log
+
+# Optional: MacOS ve Windows için
+Thumbs.db
+ehthumbs.db
